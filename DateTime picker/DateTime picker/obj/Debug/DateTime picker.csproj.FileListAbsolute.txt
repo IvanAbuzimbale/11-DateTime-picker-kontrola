@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\bin\Debug\DateTime picker.exe.config
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\bin\Debug\DateTime picker.exe
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\bin\Debug\DateTime picker.pdb
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime picker.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime_picker.Form1.resources
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime_picker.Properties.Resources.resources
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime picker.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime picker.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime picker.exe
+C:\Users\ivanm\source\repos\DateTime picker\DateTime picker\obj\Debug\DateTime picker.pdb
